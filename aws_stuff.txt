@@ -1,0 +1,14 @@
+Pool Id
+us-east-2_hgwhj3gww
+
+Pool ARN
+arn:aws:cognito-idp:us-east-2:179803842995:userpool/us-east-2_hgwhj3gww
+
+App client id
+47lglqnrkfobpk4aruboovlru3
+
+App client secret
+1gq1kd2b7d5oaj7n8kn79ps4a1o0bkjklveknd24vijmu03v2ffj
+
+identity pool id
+us-east-2:3023da39-1a39-45a2-addf-280e34dca741
